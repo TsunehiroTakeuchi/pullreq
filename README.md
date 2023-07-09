@@ -1,2 +1,2 @@
 # folkしたリポジトリにプルリクする練習とマージする練習用
- ローカルのupdate-readmeにて更新
+ ローカルのupdate-readmeにて再度の更新
